@@ -1,0 +1,11 @@
+{
+  "name": "package-1",
+  "version": "1.0.0",
+  "description": "The first addition to this package is in file `p1-f1.md`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "monorepo-release-lab",
+  "version": "1.0.0",
+  "description": "Test how releases can be automated when a repo contains several packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "package-1",
+    "package-2"
+  ]
+}
