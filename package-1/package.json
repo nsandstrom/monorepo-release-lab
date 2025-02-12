@@ -1,6 +1,6 @@
 {
   "name": "package-1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The first addition to this package is in file `p1-f1.md`.",
   "main": "index.js",
   "scripts": {
